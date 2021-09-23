@@ -1,5 +1,5 @@
 #------ Warp Perspective ------#
-# Basically flattening a curved image (aka Bird Eye or Top down view)
+# Basically flattening a curved image (aka Bird's Eye or Top down view)
 
 import cv2
 import numpy as np
